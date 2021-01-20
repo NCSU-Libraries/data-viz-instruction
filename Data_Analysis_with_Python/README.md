@@ -1,10 +1,14 @@
 # Data Analysis with Python
 
-These instructional materials provide an introduction to cleaning and exploring a dataset with Python using the data analysis library Pandas and the visualization library Matplotlib.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NCSU-Libraries/data-viz-instruction/blob/master/Data_Analysis_with_Python/Explore_FAA_wildlife_strikes_NC.ipynb)
 
-## Contents
+These instructional materials provide an introduction to cleaning and exploring a dataset with Python using the data analysis library pandas and the visualization library Matplotlib.
 
-- **Explore_FAA_wildlife_strikes_NC.ipynb (Jupyter Notebook)** - contains explanatory text and guided activities for exploring data from the FAA Wildlife Strikes Database with Pandas and Matplotlib
+To start the activity click the "Open in Colab" button above or [click this link to open the Jupyter notebook in Google Colab](https://colab.research.google.com/github/NCSU-Libraries/data-viz-instruction/blob/master/Data_Analysis_with_Python/Explore_FAA_wildlife_strikes_NC.ipynb).
+
+## Repository contents
+
+- **Explore_FAA_wildlife_strikes_NC.ipynb (Jupyter Notebook)** - contains explanatory text and guided activities for exploring data from the FAA Wildlife Strikes Database with pandas and Matplotlib
 
 - **FAA_wildlife_strikes_NC.csv (comma separated values file)** - contains characteristics (columns) about each reported wildlife strike with an aircraft (rows) that occurred in the state of North Carolina from the [Federal Aviation Administration (FAA) Wildlife Strikes Database](https://wildlife.faa.gov/search).
 
