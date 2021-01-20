@@ -4,7 +4,7 @@
 
 These instructional materials provide an introduction to cleaning and exploring a dataset with Python using the data analysis library pandas and the visualization library Matplotlib.
 
-To start the activity click the "Open in Colab" button above or [click this link to open the Jupyter notebook in Google Colab](https://colab.research.google.com/github/NCSU-Libraries/data-viz-instruction/blob/master/Data_Analysis_with_Python/Explore_FAA_wildlife_strikes_NC.ipynb).
+To start the activity click the "Open in Colab" button above or [click this link to open the Jupyter notebook in Google Colab](https://colab.research.google.com/github/NCSU-Libraries/data-viz-instruction/blob/master/Data_Analysis_with_Python/Explore_FAA_wildlife_strikes_NC.ipynb). *You must be logged in with a Google Account to run the notebook*
 
 ## Repository contents
 
