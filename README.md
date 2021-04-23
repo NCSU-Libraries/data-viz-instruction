@@ -12,6 +12,10 @@ Each folder in this repository contains guided activities, computational noteboo
 
 These materials provide an introduction to cleaning and exploring a dataset with Python using the data analysis library pandas and the visualization library Matplotlib. This activity was originally developed for inclusion in the [Library Research Skills for Engineers and Scientists Learning Modules](https://sites.google.com/ncsu.edu/undergraduateresearchmodules/home), a series of learning modules designed to present information skills necessary to be a successful researcher in sciences & engineering.
 
+### MI REU 2021
+
+This collection of Jupyter notebooks provides an introduction to Jupyter Notebook, programming with Python, and data science techniques with the Python libraries pandas and matplotlib. These materials were originally developed for inclusion in a collection of asynchronous learning modules created as part of a Materials Informatics Research Engagement for Undergraduates project.
+
 ## Contact information
 
 Submit an issue or create a pull request to suggest updates or changes to material.
