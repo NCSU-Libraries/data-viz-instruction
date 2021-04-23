@@ -8,6 +8,10 @@ This repository contains materials developed at NC State University Libraries fo
 
 Each folder in this repository contains guided activities, computational notebooks (e.g., Jupyter Notebook), and/or datasets used in an NC State University Libraries led instruction session.
 
+### Data Analysis with Python
+
+These materials provide an introduction to cleaning and exploring a dataset with Python using the data analysis library pandas and the visualization library Matplotlib. This activity was originally developed for inclusion in the [Library Research Skills for Engineers and Scientists Learning Modules](https://sites.google.com/ncsu.edu/undergraduateresearchmodules/home), a series of learning modules designed to present information skills necessary to be a successful researcher in sciences & engineering.
+
 ## Contact information
 
 Submit an issue or create a pull request to suggest updates or changes to material.

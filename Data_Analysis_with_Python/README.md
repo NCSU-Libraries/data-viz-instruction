@@ -14,4 +14,4 @@ To start the activity click the "Open in Colab" button above or [click this link
 
 ## Credit
 
-These materials were originally developed for Engineering REU Library Modules by Claire Cahoon, Walt Gurley, and Natalia Lopez in the [Data & Visualization Services Department](https://www.lib.ncsu.edu/department/data-visualization-services) at the [NC State University Libraries](https://www.lib.ncsu.edu/).
+These materials were developed by Claire Cahoon, Walt Gurley, and Natalia Lopez in the [Data & Visualization Services Department](https://www.lib.ncsu.edu/department/data-visualization-services) at the [NC State University Libraries](https://www.lib.ncsu.edu/) and were originally created for inclusion in the [Library Research Skills for Engineers and Scientists Learning Modules](https://sites.google.com/ncsu.edu/undergraduateresearchmodules/home), a series of learning modules designed to present information skills necessary to be a successful researcher in sciences & engineering. 
